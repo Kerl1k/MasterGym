@@ -1,0 +1,7 @@
+{
+    "user": [
+        {"id": 1, "login": "qwe", "password": "qwe"}
+    ],
+    "exercise": [{"id": 1, "name":"exercise1" , "group": "legs", "complexity": [1 , 2 , 3]}],
+    "training":[{"id": 1, "name": "training", "type": "xz"}]
+}
